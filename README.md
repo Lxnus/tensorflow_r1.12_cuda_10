@@ -2,7 +2,7 @@
 Tensorflow .whl file for CUDA 10
 
 Download this file: 
-https://file.io/Ccl6rg
+https://1drv.ms/f/s!AspzPyzQ0HQR7VJ_ADuJG1Y72Idd
 
 USAGE:
 WINDOWS:
