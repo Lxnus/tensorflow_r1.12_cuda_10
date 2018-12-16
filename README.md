@@ -9,8 +9,6 @@ https://1drv.ms/u/s!AspzPyzQ0HQR7VNCicPlnCV2abKJ
 
 ´´´
 cd <your .whl location>
-´´´
 
-´´´
 pip3 install tensorflow-1.12.0rc0-cp36-cp36m-win_amd64.whl
 ´´´
