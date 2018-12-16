@@ -12,3 +12,9 @@ cd <your .whl location>
 
 pip3 install tensorflow-1.12.0rc0-cp36-cp36m-win_amd64.whl
 ```
+
+
+### Other useful Projects
+
+ScreenCapture4J: https://github.com/Lxnus/ScreenCapture4J
+-> useful for classifing model or objects in live windows!
